@@ -1,1 +1,1 @@
-# creditcardCheckerLuhn
+# Credit card checker Luhn
